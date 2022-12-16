@@ -1,7 +1,7 @@
 # Android-MVVM-Architecture
 
 ## Shop application made with MVVM architecture and a small percentage of Java and most of it with koltin.
----
+
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/A4IiMv0v028)
 ---
 ![screenshot-5](https://user-images.githubusercontent.com/91757328/208107728-890ec0d9-378c-49ac-9636-d046f10866fe.png)
