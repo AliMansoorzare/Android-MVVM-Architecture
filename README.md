@@ -22,4 +22,4 @@
 ###### [3. Retrofit2](https://square.github.io/retrofit/)<br />
 ###### [4. Koin](https://github.com/burnoo/cokoin)<br />
 ###### [5. Rxjava2](https://reactivex.io/documentation)<br />
-###### SOLID
+######  6. SOLID
