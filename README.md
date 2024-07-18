@@ -3,13 +3,9 @@
 #### A private shop application made with MVVM architecture and a small percentage of Java and most of it with koltin.</br>
 #### This application was made to the order of a food, cosmetics and hygiene store.
 ---
-#### Application download link
----
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/A4IiMv0v028)
 ---
 ![screenshot-5](https://user-images.githubusercontent.com/91757328/208107728-890ec0d9-378c-49ac-9636-d046f10866fe.png)
----
-![screenshot-4](https://user-images.githubusercontent.com/91757328/208107737-befd40b0-5070-465d-a82a-fefa288d96b3.png)
 ---
 ![screenshot-3](https://user-images.githubusercontent.com/91757328/208107743-5e3ebc2b-40a7-4479-9bc6-bb44d04514e6.png)
 ---
