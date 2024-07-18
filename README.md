@@ -1,7 +1,7 @@
 # Android-MVVM-Architecture
 
 #### A private shop application made with MVVM architecture and a small percentage of Java and most of it with kotlin.</br>
-#### This application was made to the order of a food, cosmetics and hygiene store.
+#### This application was designed to the order of a food, cosmetics and hygiene store.
 ---
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/A4IiMv0v028)
 ---
