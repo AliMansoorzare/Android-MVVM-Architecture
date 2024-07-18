@@ -4,7 +4,6 @@
 #### This application was made to the order of a food, cosmetics and hygiene store.
 ---
 #### Application download link
-#### https://maemaeen73.ir/salehin.apk
 ---
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/A4IiMv0v028)
 ---
